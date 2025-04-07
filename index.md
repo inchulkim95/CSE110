@@ -4,7 +4,7 @@
   </div>
   <h1 style="margin: 0;">Inchul Kim</h1>
 </div>
-I am in my pursuing a B.S. Computer Science at University of California San Diego. 
+I am currently pursuing a B.S. Computer Science at University of California San Diego. 
 
 In my off-time I like to play games with my friends, cook, eat, and listen to R&B.
 
