@@ -8,12 +8,11 @@ I am in my pursuing a B.S. Computer Science at University of California San Dieg
 
 In my off-time I like to play games with my friends, cook, eat, and listen to R&B.
 
-
-[Readme.md](README.md)
+[Relative Link eg](davidmartinezstare.jpg)
 
 [Section link to my best friend](#handsome-henny)
 
-quote code ex: `git push`
+quote code eg: `git push`
 
 ### Languages
 >- C
